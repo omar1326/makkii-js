@@ -28,7 +28,7 @@
     "url": "https://github.com/chaion/react-native-makkii-core/issues"
   },
   "dependencies": {
-    "@ledgerhq/hw-app-btc": "4.73.7",
+    "@ledgerhq/hw-app-btc": "4.78.0",
     "@makkii/makkii-core": "0.1.1",
     "bignumber.js": "9.0.0",
     "bip39": "3.0.2",

@@ -35,7 +35,7 @@
     "bs58": "^4.0.1",
     "bs58check": "^2.1.2",
     "elliptic": "^6.4.1",
-    "ethereumjs-util": "^6.1.0",
+    "ethereumjs-util": "^7.0.2",
     "hdkey": "^1.1.1",
     "lib-common-util-js": "https://github.com/chaion/lib-common-util-js.git#7c64a4fd9b96b4c4d25b26de47e290eef10cc92e"
   },
